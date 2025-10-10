@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Hope Movement – NDISE TINGA VICHINJE PAMODZI</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Arial', sans-serif; background-color: #f4f6f8; color: #222; line-height: 1.6; }
+
+    header {
+      background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('ED4671CD-061D-42ED-B805-BA3AF6D14B29.jpeg') no-repeat center/cover;
+      color: white; text-align: center; padding: 5em 1em;
+    }
+    header h1 { font-size: 2.5em; margin-bottom: 0.3em; }
+    header p { font-size: 1.2em; }
+
+    nav { background: #0a3d62; padding: 1em; text-align: center; }
+    nav a { color: white; margin: 0 1em; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+
+    section { max-width: 900px; margin: 2em auto; background: white; padding: 2em; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    h2 { color: #0a3d62; margin-bottom: 0.5em; }
+    p { margin-bottom: 1.2em; }
+
+    .donate {
+      background: #0a3d62; color: white; padding: 1.5em; text-align: center; border-radius: 10px;
+    }
+    .donate h2 { color: #fff; }
+    .donate button {
+      background: #f1c40f; color: #222; border: none; padding: 0.8em 1.5em; border-radius: 5px; font-weight: bold; cursor: pointer;
+    }
+    .donate button:hover { background: #d4ac0d; }
+
+    footer { text-align: center; background: #0a3d62; color: white; padding: 1em; margin-top: 2em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>New Hope Movement</h1>
+    <p><strong>NDISE TINGA VICHINJE PAMODZI</strong></p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#vision">Vision</a>
+    <a href="#focus">Focus Areas</a>
+    <a href="#join">Join Us</a>
+    <a href="#donate">Support</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>The <strong>New Hope Movement</strong> is a community initiative bringing together youths, women, and men with one mission — to build a better, stronger, and more united future. We believe in empowerment through action, collaboration, and faith in positive change.</p>
+  </section>
+
+  <section id="vision">
+    <h2>Our Vision</h2>
+    <p>To create a self-reliant, empowered, and united community where every person has access to education, opportunities, and a voice in development. Together, <strong>NDISE TINGA VICHINJE PAMODZI</strong> — we can make a difference.</p>
+  </section>
+
+  <section id="focus">
+    <h2>Our Focus Areas</h2>
+    <ul>
+      <li>Youth Empowerment through sports, skills, and music.</li>
+      <li>Women Support and Entrepreneurship Development.</li>
+      <li>Community Infrastructure and Clean Environments.</li>
+      <li>Education and Mentorship for the next generation.</li>
+    </ul>
+  </section>
+
+  <section id="join">
+    <h2>Join Us</h2>
+    <p>If you believe in change, then you are already part of New Hope. Let’s build together — youths, women, and men united for progress.</p>
+    <p><strong>NDISE TINGA VICHINJE PAMODZI!</strong></p>
+  </section>
+
+  <section id="donate" class="donate">
+    <h2>Support the Movement</h2>
+    <p>Your support helps us reach more people, train more youths, and uplift more families. Every contribution counts.</p>
+    <button onclick="window.location.href='mailto:tripletee15@gmail.com'">Donate / Get Involved</button>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> 0974523420</p>
+    <p><strong>Email:</strong> <a href="mailto:tripletee15@gmail.com">tripletee15@gmail.com</a></p>
+    <p>Follow and join us in bringing <strong>New Hope</strong> to our communities.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 New Hope Movement | Powered by GitHub Pages
+  </footer>
+</body>
+</html>
